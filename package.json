@@ -1,0 +1,16 @@
+{
+  "name": "com.sap.runtimecore",
+  "version": "1.0.9",
+  "displayName": "SAP Runtime Core",
+  "description": "",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  }
+}
